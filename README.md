@@ -1,7 +1,7 @@
 # Olá, eu sou o Rodrigo Doratiotto Reis!
 
 ### Sobre mim
-Atualmente, estou no último semestre do curso de **Análise e Desenvolvimento de Sistemas**. Estou em busca de oportunidades na área de **Análise de Dados** para aplicar e expandir meus conhecimentos em tecnologia e dados.
+Sou formado em Análise e Desenvolvimento de Sistemas e em Contabilidade, com experiência em análise e manipulação de dados, destacando habilidades em SQL, Excel avançado e criação de dashboards interativos no Tableau. Possuo conhecimento em Python para automação e análise de dados e no uso de Metabase para geração de insights. Busco uma oportunidade como Analista de Dados, onde possa transformar dados em informações estratégicas, desenvolver relatórios e dashboards, e otimizar processos analíticos, contribuindo para a tomada de decisão e o crescimento sustentável da organização.
 
 ### Habilidades
 - **Python**: Desenvolvimento de scripts para análise de dados e automações.
